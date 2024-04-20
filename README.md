@@ -2,7 +2,7 @@
 # a simple clean code password generator 
 import random   
 
-chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
+chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()_+{}>?,|"
 
 while 1:
     password_len = 12
